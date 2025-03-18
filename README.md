@@ -18,6 +18,11 @@ The dashboard provides insights into product_ID ,product ,price ,cost ,branch_id
     - Gross Profit: 415,746.24
 
 
+
+
+
+
+
 ## Charts and Their Purpose 
 
  ### 1)  Total Price For Each Product (Column Chart) 
@@ -43,6 +48,12 @@ The dashboard provides insights into product_ID ,product ,price ,cost ,branch_id
 
 
 
+
+
+
+
+
+
 ## Recommendations
 
 
@@ -51,6 +62,10 @@ The dashboard provides insights into product_ID ,product ,price ,cost ,branch_id
 - I am trying to find ads that target the category that uses these products.
 - I make offers where I put the most used product with a less used product, and thus I end up selling two products, not one.
 - I am trying to run a contest for a product that was working for a while and then went down and then it will work again
+
+
+
+
 
 
 
